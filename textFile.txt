@@ -1,4 +1,3 @@
-test
-test2test
-test commit 2
-commit 3
+public class JavaCode{
+	myMethod()
+	}
